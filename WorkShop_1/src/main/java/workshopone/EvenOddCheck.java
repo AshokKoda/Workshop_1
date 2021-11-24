@@ -1,3 +1,4 @@
+package workshopone;
 
 
 import java.util.Scanner;
